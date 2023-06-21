@@ -55,7 +55,7 @@ h3 {
 .preview {
     width: 1150px;
     height: 500px;
-    background-image: url(./Preview.png);
+    background-image: url(../Preview.png);
     color: #FFFFFF;
     margin-bottom: 150px;
 }
